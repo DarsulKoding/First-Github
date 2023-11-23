@@ -1,4 +1,7 @@
 RENCANA BELAJAR
 
 - Belajar php
+  * Belajar php native
 - Belajar framework php
+  * Belajar codeigniter
+  * Belajar Laravel
