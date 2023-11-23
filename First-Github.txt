@@ -2,5 +2,4 @@ First-Github Resolusi
 - Belajar github dengan konsisten
 - Betul betul memahami github
 - 4 hari belajar github selesai
-- Menggunakan github dalam bekerja
 - Setiap hari pasti belajar coding
