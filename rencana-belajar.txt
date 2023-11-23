@@ -9,3 +9,4 @@ RENCANA BELAJAR
   * Belajar framework CSS
     * Belajar boostrap
 - Belajar python
+- Belajar javascript
