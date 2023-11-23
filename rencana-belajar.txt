@@ -7,3 +7,6 @@ RENCANA BELAJAR
   * Belajar Laravel
 - Belajar CSS
   * Belajar framework CSS
+    * Belajar boostrap
+- Belajar python
+- Belajar javascript
