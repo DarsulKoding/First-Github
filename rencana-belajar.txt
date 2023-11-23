@@ -5,5 +5,9 @@ RENCANA BELAJAR
 - Belajar framework php
   * Belajar codeigniter
   * Belajar Laravel
+- Belajar CSS
+  * Belajar framework CSS
+    * Belajar boostrap
+- Belajar python
 - Belajar javascript
-  * Belajar framework javascript
+
